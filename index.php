@@ -1,6 +1,6 @@
 <?php
 
-$accessToken = 'LINEのアクセストークン（管理画面より取得）';
+$accessToken = 'LINEのアクセストークン';
 
 // 受信したメッセージ情報
 $raw = file_get_contents('php://input');
